@@ -1,2 +1,5 @@
-# cs-portfolio
-Computer Science portfolio for coursework and projects.
+Hi, this project was based on designing a system for DriverPass, a company that helps students prepare for driving tests. The system was designed to allow users to create accounts, schedule driving lessons, take practice tests, and track their progress. The goal was to make the process easier for both students and staff by organizing everything in one system.
+
+One thing I did well was breaking the system into smaller parts and using diagrams to show how everything works together. This helped me better understand how users interact with the system and how different features connect. If I could improve one part, I would add more detail to some of my diagrams and explanations to make them even clearer.
+
+When designing the system, I focused on the user’s needs by making sure features like scheduling, account management, and test tracking were included. This is important because the system needs to be useful and easy to use for the people using it. In the future, I would continue to use diagrams and step-by-step planning to design systems, while also focusing on improving clarity and detail.
